@@ -1,0 +1,39 @@
+.navbar{
+    padding-bottom: 0%;
+}
+.endicon{
+    font-size: 25px;
+}
+.searchbar{
+    width:80%;
+    
+}
+.newbutton{
+    border-radius: 40px;
+    width:7em;
+    height:45px;
+    overflow:-moz-hidden-unscrollable;
+    padding-bottom: 10px;
+    padding-left: 1px;
+    box-shadow: .5px .5px .5px .5px rgb(219, 217, 217);
+}
+.side{
+    text-align: right;
+    padding-left: 0px;
+}
+.navbar{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.sidebar{
+    border-radius:20px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    color: rgb(74, 74, 74);
+    text-align: start;
+}
+.sejal{
+    padding-left: 35px;
+}
